@@ -1,6 +1,7 @@
 # Sports_event_analysis
 
-
+## Click on this link to view the notebook 
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3631207029267679/3854822942907491/7525690455622939/latest.html
 ## Overview
 * Welcome to the Olympics Data Analysis repository! This project aims to provide comprehensive insights and exploratory analysis of historical Olympic Games data.    The repository contains Python scripts, databricks html, and datasets to perform a wide range of analyses on Olympic Games information.
 
@@ -24,9 +25,7 @@
 To get started with the Olympics Data Analysis:
 
 Clone the repository to your local machine using git clone https://github.com/your-username/olympics-data-analysis.git.
-
-Explore the databricks html page  notebook in the Olympics data analysis directory, each covering different aspects of analysis.
-
+ 
 Contribute your insights, visualizations, or improvements by creating pull requests.
 
 I hope you find this repository informative and engaging! Happy analyzing and may the Olympic spirit inspire your data exploration journey! 🏅🎯📊
